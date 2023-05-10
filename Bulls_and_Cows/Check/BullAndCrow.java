@@ -1,3 +1,5 @@
+//TODO названия методов с маленькой буквы
+//TODO crow ? )) ну ок
 public class BullAndCrow {
     private int bull = 0;
     private int ram = 0;

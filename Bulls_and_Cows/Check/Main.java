@@ -8,7 +8,7 @@ import java.text.DateFormat;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-
+        //TODO что такое a? Дай более понятное название
         boolean a = true;
         int game = 1;
         int attempt = 0;
@@ -78,3 +78,5 @@ public class Main {
         pw.close();
     }
 }
+
+//TODO 1) При записи в файл нумерация игр должна продолжаться
